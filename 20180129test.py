@@ -1,3 +1,4 @@
+#我要加一句话
 from PIL import Image,ImageFont,ImageDraw
 im=Image.open('./0.png')
 w,h=im.size
